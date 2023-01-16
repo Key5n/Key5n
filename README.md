@@ -7,6 +7,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Github](https://img.shields.io/badge/Github-cccccc.svg?style=for-the-badge&logo=Github&logoColor=181717)
 
+I'm a student at Nagoya Institute of Technology in Japan.  
+Developing web application using React(Nextjs) + Typescript is my core.
 
 名古屋工業大学情報工学科の大学生です。  
 React + Typescriptを用いたウェブアプリケーションの開発をしています。
