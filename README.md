@@ -1,5 +1,5 @@
 # 👋I'm key5n!
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40two_key5)](https://twitter.com/two_key5)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40two_key5)](https://twitter.com/key5n)
 
 ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
 ![Next](https://img.shields.io/badge/NEXTJS-cccccc.svg?style=for-the-badge&logo=Next.js&logoColor=000000)
