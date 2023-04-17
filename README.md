@@ -8,12 +8,36 @@
 ![Github](https://img.shields.io/badge/Github-cccccc.svg?style=for-the-badge&logo=Github&logoColor=181717)
 
 I'm a student at Nagoya Institute of Technology in Japan.  
+
 Developing web application using React(Nextjs) + Typescript is my core.
 
-名古屋工業大学情報工学科の大学生です。  
+In addition, I love toying Linux(Manjaro) Desktop and home-built PC.
+
+Orienting a PC life without mouses, loving Thinkpad.
+
+6 months passed since I started using Vim.
+
+名古屋工業大学情報工学科の大学3年生です。
+
 React + Typescriptを用いたウェブアプリケーションの開発をしています。
 
-[My best project](https://github.com/key5n/koudaisai-app-for-web)
+ウェブフロントエンド開発の他にも Linux(Manjaro)と自作PCをいじくるのが好きです。
+
+マウスがいらないパソコン生活を目指しています。
+
+Thinkpadを愛用。
+
+Vim歴半年。
+
+# My Best Project
+- [大学祭がコロナで入場制限がかかったため、予約システムを構築し、さらに便利機能をつけた大学祭アプリ](https://github.com/key5n/koudaisai-app-for-web)
+Nextjs + TypeScript + Firebaseを用いて作りました。
+- [部活のサイト](https://c0de-web.club.nitech.ac.jp/)
+静的サイトジェネレータのAstroで作りました。Figmaでしっかりとデザインを作ってからコードに起こしています。
+
+
+# My Articles
+- [静的サイトジェネレータ 11ty を学んだときの備忘録](https://zenn.dev/key5n/articles/811c071918e0ae)
 
 [![](https://raw.githubusercontent.com/Key5n/Key5n/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Key5n/Key5n/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Key5n/Key5n/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
