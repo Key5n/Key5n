@@ -31,10 +31,9 @@ Vim歴半年。
 
 # My Best Project
 - [大学祭がコロナで入場制限がかかったため、予約システムを構築し、さらに便利機能をつけた大学祭アプリ](https://github.com/key5n/koudaisai-app-for-web)
-Nextjs + TypeScript + Firebaseを用いて作りました。
+    - [その記事](https://note.com/key5n/n/ne7aef0d2e98f)
 - [部活のサイト](https://c0de-web.club.nitech.ac.jp/)
-静的サイトジェネレータのAstroで作りました。Figmaでしっかりとデザインを作ってからコードに起こしています。
-
+静的サイトジェネレータのAstroで作りました。
 
 # My Articles
 - [静的サイトジェネレータ 11ty を学んだときの備忘録](https://zenn.dev/key5n/articles/811c071918e0ae)
