@@ -25,7 +25,7 @@ React + Typescriptを用いたウェブアプリケーションの開発をし�
 
 マウスがいらないパソコン生活を目指しています。
 
-Thinkpadを愛用。
+Thinkpadキーボードを愛用。
 
 Vim歴半年。
 
@@ -37,6 +37,7 @@ Vim歴半年。
 # My Articles
 - [静的サイトジェネレータ 11ty を学んだときの備忘録](https://zenn.dev/key5n/articles/811c071918e0ae)
 - [大学祭がコロナで入場制限がかかったため、予約システムを構築し、さらに便利機能をつけた大学祭アプリ](https://note.com/key5n/n/ne7aef0d2e98f)
+- [JavaのJLineで高機能CLIを作る](https://zenn.dev/key5n/articles/43b23a5eb69be2)
 
 [![](https://raw.githubusercontent.com/Key5n/Key5n/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Key5n/Key5n/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Key5n/Key5n/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
